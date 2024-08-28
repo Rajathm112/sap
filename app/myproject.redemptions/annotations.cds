@@ -1,0 +1,1 @@
+using myprojectSrv as service from '../../srv/service';
